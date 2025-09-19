@@ -1,0 +1,18 @@
+{
+  "name": "trabalho-api",
+  "version": "1.0.0",
+  "description": "Esta API permite registro, login, consulta de usuários e transferências.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Roger Rezende Ribeiro Santos",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
